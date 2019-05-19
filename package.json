@@ -1,0 +1,20 @@
+{
+  "name": "cefet-web-geiser-master",
+  "version": "1.0.0",
+  "description": "Um mostruário de algumas pessoas que ficam fritando seus PCs. Há uma página que mostra essas pessoas e outra com detalhes sobre o que elas andam fazendo com seus computadores.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0",
+    "hbs": "^4.0.4",
+    "node-fetch": "^2.6.0",
+    "underscore": "^1.9.1"
+  }
+}
